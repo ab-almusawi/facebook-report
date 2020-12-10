@@ -35,4 +35,3 @@ Which is located in the same folder as the program
 Proxies are placed in the following manner, line by line:
 
 10.10.10.1:2222
-90.92.98.22:3232
