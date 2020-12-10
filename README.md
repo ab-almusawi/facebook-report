@@ -7,9 +7,11 @@ write the command in the cmd or terminal to install the required libraries:
 
 pip install -r requirements.txt
 ----------------------------
+
 After installation Complete
 
 open the cookie generating file:
+
 python GenerateCookies.py
 ----------------------------
 First: enter the count of accounts for which we will generate cookies for use later in the reporting process.
