@@ -1,0 +1,16 @@
+certifi==2020.12.5
+chardet==3.0.4
+colorama==0.4.4
+idna==2.10
+parse==1.18.0
+pathlib==1.0.1
+prompt-toolkit==2.0.10
+protobuf==3.14.0
+Pygments==2.5.2
+pyquery==1.4.3
+requests==2.25.0
+six==1.15.0
+soupsieve==1.9.6
+urllib3==1.26.2
+wcwidth==0.2.5
+webencodings==0.5.1
